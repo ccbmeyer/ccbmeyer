@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccbmeyer
 - 👀 I’m interested in Software Development using WAMP
-- 🌱 I’m currently learning Design Patterns
+- 🌱 I’m currently experimenting doing Automation with Python and Selenium
 
 - 📫 How to reach me : ccbmeyer@gmail.com
 
